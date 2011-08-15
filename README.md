@@ -1,6 +1,12 @@
----------------------------------------
-Coda Completion for jQuery Mobile v1.0
----------------------------------------
+# Coda Completion for jQuery Mobile v1.0.1
 
-1. Coda.app/Contents/Resources/Modes/HTML.mode/Contents/Resources/CodaCompletion.plistに置く
-2. jQuery Mobile.clipsをダブルクリック
+
+## Install
+1. Replace *Coda.app/Contents/Resources/Modes/HTML.mode/Contents/Resources/CodaCompletion.plist*.
+2. Double click *jQuery Mobile.clips*.
+
+
+## jQuery Mobile.clips
+* Template - jqm + TAB
+* Page - page + TAB
+* Localization JP - lang + TAB
