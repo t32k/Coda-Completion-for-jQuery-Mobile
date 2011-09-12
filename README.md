@@ -7,6 +7,6 @@
 
 
 ## jQuery Mobile.clips
-* Template - jqm + TAB
-* Page - page + TAB
-* Localization JP - lang + TAB
+* Template - jqm + [TAB]
+* Page - page + [TAB]
+* Localization JP - lang + [TAB]
